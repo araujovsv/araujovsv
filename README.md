@@ -1,14 +1,10 @@
-### Seja bem-vindx 👋
-
-- 🔭 Atualmente, estou estudando na Universidade de Brasília
-- 🌱 Estou aprendendo mais sobre SQL e Vue.js
-- 📫 Como entrar em contato comigo: araujovsv@gmail.com
-
 <h1 align="center">Seja bem-vindx<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h3 align="center">Um estudante de engenharia florestal aprendendo sobre programação</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araujovsv" alt="araujovsv" /> </p>
 
 - 🔭 Atualmente, estou estudando na Universidade de Brasília
+
+- 🌱 Aprendendo sobre Data Science, Web Dev e SIG
 
 - 📫 Me contate em **araujovsv@gmail.com**
 
