@@ -4,7 +4,7 @@
 
 <p align="center">🌱 Interessado em vínculos, parcerias e contribuir em projetos. Atualmente, estudo ciência de dados, desenvolvimento web e SIG</p>
 
-<p align="center">📫 Me contate em **araujovsv@gmail.com**</p>
+<p align="center">📫 Me contate em <b>araujovsv@gmail.com</b></p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
