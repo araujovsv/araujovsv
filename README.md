@@ -1,8 +1,7 @@
 <h1 align="center">Seja bem-vindx<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h3 align="center">Estudante de engenharia florestal aprendendo programação</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=araujovsv" alt="araujovsv" /> </p>
 
-<p align="center">🌱 Interessado em vínculos, parcerias e contribuir em projetos. Atualmente, estudo ciência de dados, desenvolvimento web e SIG</p>
+<p align="center">🌱 Interessado em parcerias e contribuir em projetos. Atualmente, atuo em ciência de dados, desenvolvimento web e SIG</p>
 
 <p align="center">📫 Me contate em <b>araujovsv@gmail.com</b></p>
 
